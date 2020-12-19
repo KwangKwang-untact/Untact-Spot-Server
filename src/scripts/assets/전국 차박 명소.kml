@@ -1,0 +1,5077 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>전국 차박 명소</name>
+    <description>#차박에미치다 #차박의성지</description>
+    <Style id="icon-1763-1A237E-labelson">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>차박지도 update. 200416.xlsx</name>
+      <Placemark>
+        <name>거제 내촐해변</name>
+        <description><![CDATA[주소: 경남 거제시 동부면 학동리 628-2<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경남 거제시 동부면 학동리 628-2</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>삼탄유원지 다리밑</name>
+        <address>삼탄유원지 다리밑 충북 충주시 산척면 명서리 477-1</address>
+        <description><![CDATA[주소: 충북 충주시 산척면 명서리 477-1<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 충주시 산척면 명서리 477-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>기러기 공원</name>
+        <address>기러기 공원 충남 금산군 제원면 천내리 1007</address>
+        <description><![CDATA[주소: 충남 금산군 제원면 천내리 1007<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 금산군 제원면 천내리 1007</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>압록유원지</name>
+        <address>압록유원지 전남 곡성군 죽곡면 하한리 1039</address>
+        <description><![CDATA[주소: 전남 곡성군 죽곡면 하한리 1039<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 곡성군 죽곡면 하한리 1039</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>앵두공원</name>
+        <address>앵두공원 전남 함평군 나산면 삼축리 1332-14</address>
+        <description><![CDATA[주소: 전남 함평군 나산면 삼축리 1332-14<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 함평군 나산면 삼축리 1332-14</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>솔밭유원지 주차장 인근</name>
+        <address>솔밭유원지 주차장 인근 전남 나주시 남평읍 남석리 779</address>
+        <description><![CDATA[주소: 전남 나주시 남평읍 남석리 779<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 나주시 남평읍 남석리 779</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>욕지도 덕동 해수욕장 주차장</name>
+        <description><![CDATA[주소: 경남 통영시 욕지면 서산리 493-13<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경남 통영시 욕지면 서산리 493-13</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>약산 가사동백숲 방파제</name>
+        <address>약산 가사동백숲 방파제 전남 완도군 약산면 해동리 938-2</address>
+        <description><![CDATA[주소: 전남 완도군 약산면 해동리 938-2<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 완도군 약산면 해동리 938-2</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>노루벌 야영장</name>
+        <address>노루벌 야영장 대전 서구 흑성동 804</address>
+        <description><![CDATA[주소: 대전 서구 흑성동 804<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>대전 서구 흑성동 804</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>정선 미락숲</name>
+        <address>정선 미락숲 강원 정선군 임계면 낙천리 126-2</address>
+        <description><![CDATA[주소: 강원 정선군 임계면 낙천리 126-2<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 정선군 임계면 낙천리 126-2</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>지수리 금강변</name>
+        <address>지수리 금강변 충북 옥천군 안남면 지수리 1332</address>
+        <description><![CDATA[주소: 충북 옥천군 안남면 지수리 1332<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 옥천군 안남면 지수리 1332</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>삼길포항</name>
+        <description><![CDATA[주소: 충남 서산시 대산읍 화곡리 1881<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 서산시 대산읍 화곡리 1881</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>녹동 소록대교 밑</name>
+        <address>녹동 소록대교 밑 전남 고흥군 도양읍 봉암리 2665-2</address>
+        <description><![CDATA[주소: 전남 고흥군 도양읍 봉암리 2665-2<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 고흥군 도양읍 봉암리 2665-2</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>마곡유원지</name>
+        <address>마곡유원지 강원 홍천군 서면 마곡리 산 129</address>
+        <description><![CDATA[주소: 강원 홍천군 서면 마곡리 산 129<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 홍천군 서면 마곡리 산 129</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>수주팔봉 강변</name>
+        <address>수주팔봉 강변 충북 충주시 대소원면 문주리 산 1-1</address>
+        <description><![CDATA[주소: 충북 충주시 대소원면 문주리 산 1-1<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 충주시 대소원면 문주리 산 1-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>청운교 인근</name>
+        <description><![CDATA[주소: 경북 청송군 청송읍 청운리 1227-22<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 청송군 청송읍 청운리 1227-22</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>상보안 유원지 일대</name>
+        <address>상보안 유원지 일대 대전 서구 흑석동 738</address>
+        <description><![CDATA[주소: 대전 서구 흑석동 738<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>대전 서구 흑석동 738</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>금산 적벽강 야영장</name>
+        <description><![CDATA[주소: 충북 충주시 산척면 명서리 477-1<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 충주시 산척면 명서리 477-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>금산 적벽강 주차장</name>
+        <description><![CDATA[주소: 충남 금산군 부리면 수통리 산 101-6<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 금산군 부리면 수통리 산 101-6</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>기천 저수지 상류</name>
+        <description><![CDATA[주소: 경기 화성시 봉담읍 상기리 654<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경기 화성시 봉담읍 상기리 654</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>기천 저수지 하류</name>
+        <description><![CDATA[주소: 경기 화성시 팔탄면 기천리 산 193<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경기 화성시 팔탄면 기천리 산 193</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>이포보 오토캠핑장 인근 강변</name>
+        <address>이포보 오토캠핑장 인근 강변 경기 여주시 대신면 당남리 309-4</address>
+        <description><![CDATA[주소: 경기 여주시 대신면 당남리 309-4<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경기 여주시 대신면 당남리 309-4</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>내지리 섬강 노지</name>
+        <address>내지리 섬강 노지 강원 횡성군 횡성읍 내지리 산 76-1</address>
+        <description><![CDATA[주소: 강원 횡성군 횡성읍 내지리 산 76-1<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 횡성군 횡성읍 내지리 산 76-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>옥천 야영장 부근 금강변</name>
+        <address>옥천 야영장 부근 금강변 충북 옥천군 이원면 용방리 산 49</address>
+        <description><![CDATA[주소: 충북 옥천군 이원면 용방리 산 49<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 옥천군 이원면 용방리 산 49</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>홍천강변</name>
+        <address>홍천강변 강원 홍천군 서면 모곡리 산 234</address>
+        <description><![CDATA[주소: 강원 홍천군 서면 모곡리 산 234<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 홍천군 서면 모곡리 산 234</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>홍천강 한덕교</name>
+        <address>홍천강 한덕교 강원 춘천시 남면 한덕리 산 130</address>
+        <description><![CDATA[주소: 강원 춘천시 남면 한덕리 산 130<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 춘천시 남면 한덕리 산 130</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>임고 강변공원</name>
+        <address>임고 강변공원 경북 영천시 임고면 덕연리 163</address>
+        <description><![CDATA[주소: 경북 영천시 임고면 덕연리 163<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 영천시 임고면 덕연리 163</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>호수공원 오토캠핑장</name>
+        <address>호수공원 오토캠핑장 전남 강진군 강진읍 송전리 766-6</address>
+        <description><![CDATA[주소: 전남 강진군 강진읍 송전리 766-6<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 강진군 강진읍 송전리 766-6</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>가선리 금강변 다리 밑</name>
+        <address>가선리 금강변 다리 밑 충북 영동군 양산면 가선리 494</address>
+        <description><![CDATA[주소: 충북 영동군 양산면 가선리 494<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 영동군 양산면 가선리 494</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>수통리 금강변</name>
+        <address>수통리 금강변 충남 금산군 부리면 수통리 112</address>
+        <description><![CDATA[주소: 충남 금산군 부리면 수통리 112<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 금산군 부리면 수통리 112</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>섬강교 다리 밑</name>
+        <description><![CDATA[주소: 강원 원주시 부론면 흥호리 1171<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 원주시 부론면 흥호리 1171</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>가마섬 유원지</name>
+        <description><![CDATA[주소: 경기 여주시 강천면 부평리 621<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경기 여주시 강천면 부평리 621</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>반곡 강변</name>
+        <description><![CDATA[주소: 강원 홍천군 서면 반곡리 261<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 홍천군 서면 반곡리 261</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>의성 빙계 야영장</name>
+        <address>의성 빙계 야영장 경북 의성군 춘산면 빙계리 1017-5</address>
+        <description><![CDATA[주소: 경북 의성군 춘산면 빙계리 1017-5<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 의성군 춘산면 빙계리 1017-5</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>지석천 낚시 캠핑</name>
+        <address>지석천 낚시 캠핑 전남 나주시 남평읍 남석리 901</address>
+        <description><![CDATA[주소: 전남 나주시 남평읍 남석리 901<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 나주시 남평읍 남석리 901</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>어섬 화성비행장</name>
+        <description><![CDATA[주소: 경기 화성시 송산면 개매기길 4 <br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경기 화성시 송산면 개매기길 4 </value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>남애항 부근 노지</name>
+        <description><![CDATA[주소: 강원 양양군 현남면 남애리 70-11<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 양양군 현남면 남애리 70-11</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>시금리 초강천변</name>
+        <address>시금리 초강천변 충북 영동군 용산면 시금리 490</address>
+        <description><![CDATA[주소: 충북 영동군 용산면 시금리 490<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 영동군 용산면 시금리 490</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>차산 노지 야영장</name>
+        <address>차산 노지 야영장 경북 영천시 신녕면 치산리 산 125-5</address>
+        <description><![CDATA[주소: 경북 영천시 신녕면 치산리 산 125-5<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 영천시 신녕면 치산리 산 125-5</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>까치내 유원지 강변</name>
+        <address>까치내 유원지 강변 충남 청양군 대치면 작천리 137</address>
+        <description><![CDATA[주소: 충남 청양군 대치면 작천리 137<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 청양군 대치면 작천리 137</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>무안 조금나루 유원지</name>
+        <address>무안 조금나루 유원지 전남 무안군 망운면 조금나루길 297</address>
+        <description><![CDATA[주소: 전남 무안군 망운면 조금나루길 297 <br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 무안군 망운면 조금나루길 297 </value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>하동 구재봉 활공장</name>
+        <address>하동 구재봉 활공장 경남 하동군 악양면 축지리 산 71</address>
+        <description><![CDATA[주소: 경남 하동군 악양면 축지리 산 71<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경남 하동군 악양면 축지리 산 71</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>철원 문혜리 </name>
+        <address>철원 문혜리  강원 철원군 갈말읍 문혜리 산 304-2</address>
+        <description><![CDATA[주소: 강원 철원군 갈말읍 문혜리 산 304-2<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 철원군 갈말읍 문혜리 산 304-2</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>동검도 선착장 옆</name>
+        <address>동검도 선착장 옆 인천 강화군 길상면 동검길65번길 91-9 (동검리)</address>
+        <description><![CDATA[주소: 인천 강화군 길상면 동검길65번길 91-9 (동검리) <br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>인천 강화군 길상면 동검길65번길 91-9 (동검리) </value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>금사면 남한강변</name>
+        <address>금사면 남한강변 경기 여주시 금사면 전북리 480</address>
+        <description><![CDATA[주소: 경기 여주시 금사면 전북리 480<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경기 여주시 금사면 전북리 480</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>전북리 유원지</name>
+        <description><![CDATA[주소: 경기 여주시 산북면 용담리 384<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경기 여주시 산북면 용담리 384</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>연천 임진강 주상절리</name>
+        <address>연천 임진강 주상절리 경기 연천군 미산면 동이리 817</address>
+        <description><![CDATA[주소: 경기 연천군 미산면 동이리 817<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경기 연천군 미산면 동이리 817</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>태백 너덜샘 야영장</name>
+        <description><![CDATA[주소: 충북 충주시 산척면 명서리 477-1<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 충주시 산척면 명서리 477-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>석관정옆 영산강변</name>
+        <description><![CDATA[주소: 전남 나주시 다시면 동당리 578<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 나주시 다시면 동당리 578</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>양양 전진항옆 공터</name>
+        <description><![CDATA[주소: 강원 양양군 강현면 전진리 3-22<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 양양군 강현면 전진리 3-22</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>강진 사초해변공원</name>
+        <address>강진 사초해변공원 전남 강진군 신전면 사초리 853</address>
+        <description><![CDATA[주소: 전남 강진군 신전면 사초리 853<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 강진군 신전면 사초리 853</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>소선암 자연발생 유원지 야영장</name>
+        <address>소선암 자연발생 유원지 야영장 충북 단양군 단성면 대잠리 574</address>
+        <description><![CDATA[주소: 충북 단양군 단성면 대잠리 574<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 단양군 단성면 대잠리 574</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>오천 솔밭유원지 야영장</name>
+        <address>오천 솔밭유원지 야영장 경북 영덕군 지품면 오천리 165-4</address>
+        <description><![CDATA[주소: 경북 영덕군 지품면 오천리 165-4<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 영덕군 지품면 오천리 165-4</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>딱산 유원지</name>
+        <address>딱산 유원지 강원 화천군 간동면 구만리 1313-3</address>
+        <description><![CDATA[주소: 강원 화천군 간동면 구만리 1313-3<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 화천군 간동면 구만리 1313-3</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>미천 공원</name>
+        <address>미천 공원 경북 고령군 덕곡면 노리 1181</address>
+        <description><![CDATA[주소: 경북 고령군 덕곡면 노리 1181<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 고령군 덕곡면 노리 1181</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>망양 휴게소 옆</name>
+        <description><![CDATA[주소: 경북 울진군 매화면 덕신리 107-4<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 울진군 매화면 덕신리 107-4</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>달천</name>
+        <description><![CDATA[주소: 충북 청주시 상당구 미원면 옥화리 355<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 청주시 상당구 미원면 옥화리 355</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>유곡천 다목적 캠핑장</name>
+        <address>유곡천 다목적 캠핑장 경상남도 의령군 유곡면 박진로 13</address>
+        <description><![CDATA[주소: 경상남도 의령군 유곡면 박진로 13 <br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경상남도 의령군 유곡면 박진로 13 </value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>개야리 홍천강변</name>
+        <address>개야리 홍천강변 강원 홍천군 서면 개야리 산 93</address>
+        <description><![CDATA[주소: 강원 홍천군 서면 개야리 산 93<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 홍천군 서면 개야리 산 93</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>개야리 유원지</name>
+        <address>개야리 유원지 강원 홍천군 서면 개야리 154-8</address>
+        <description><![CDATA[주소: 강원 홍천군 서면 개야리 154-8<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 홍천군 서면 개야리 154-8</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>송산유원지 주차장</name>
+        <address>송산유원지 주차장 광주 광산구 송산동 387</address>
+        <description><![CDATA[주소: 광주 광산구 송산동 387<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>광주 광산구 송산동 387</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>진주 남강변</name>
+        <address>진주 남강변 경남 진주시 내동면 삼계리 산 347</address>
+        <description><![CDATA[주소: 경남 진주시 내동면 삼계리 산 347<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경남 진주시 내동면 삼계리 산 347</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>밀약 낙동대교 다리밑</name>
+        <description><![CDATA[주소: 경남 밀양시 삼랑진읍 송지리 493-2<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경남 밀양시 삼랑진읍 송지리 493-2</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>산내 청룡폭포 노지</name>
+        <description><![CDATA[주소: 경북 경주시 산내면 외칠리 산 213<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 경주시 산내면 외칠리 산 213</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>고소바위공원 야영장</name>
+        <description><![CDATA[주소: 전북 남원시 산동면 대기리 1027-207<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전북 남원시 산동면 대기리 1027-207</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>도비도 노지</name>
+        <description><![CDATA[주소: 충남 당진시 석문면 난지도리 535<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 당진시 석문면 난지도리 535</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>암새들앞 공용 주차장</name>
+        <address>암새들앞 공용 주차장 경남 밀양시 용평동 118-14</address>
+        <description><![CDATA[주소: 경남 밀양시 용평동 118-14<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경남 밀양시 용평동 118-14</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>양단유원지</name>
+        <address>양단유원지 경남 밀양시 단장면 단장리 922-1</address>
+        <description><![CDATA[주소: 경남 밀양시 단장면 단장리 922-1<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경남 밀양시 단장면 단장리 922-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>산외면 체육공원 주차장</name>
+        <address>산외면 체육공원 주차장 경남 밀양시 산외면 금곡리 105-1</address>
+        <description><![CDATA[주소: 경남 밀양시 산외면 금곡리 105-1<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경남 밀양시 산외면 금곡리 105-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>문막읍 섬강변</name>
+        <address>문막읍 섬강변 강원 원주시 문막읍 건등리 1325</address>
+        <description><![CDATA[주소: 강원 원주시 문막읍 건등리 1325<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 원주시 문막읍 건등리 1325</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>나진피서지</name>
+        <address>나진피서지 전남 여수시 화양면 나진리 394-6</address>
+        <description><![CDATA[주소: 전남 여수시 화양면 나진리 394-6<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 여수시 화양면 나진리 394-6</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>한적한 방파제</name>
+        <address>한적한 방파제 전남 고흥군 영남면 남열리 산 217</address>
+        <description><![CDATA[주소: 전남 고흥군 영남면 남열리 산 217<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 고흥군 영남면 남열리 산 217</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>백운정 유원지</name>
+        <address>백운정 유원지 경북 안동시 임하면 천전리 1084-7</address>
+        <description><![CDATA[주소: 경북 안동시 임하면 천전리 1084-7<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 안동시 임하면 천전리 1084-7</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>주전가족 휴양지 캠핑장</name>
+        <address>주전가족 휴양지 캠핑장 울산 동구 주전동 714-4</address>
+        <description><![CDATA[주소: 울산 동구 주전동 714-4<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>울산 동구 주전동 714-4</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>서면 바닷가 솔밭</name>
+        <description><![CDATA[주소: 충남 서천군 서면 도둔리 914-12<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 서천군 서면 도둔리 914-12</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>홍원항 등대 방파제 주차장</name>
+        <description><![CDATA[주소: 충남 서천군 서면 도둔리 1471<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 서천군 서면 도둔리 1471</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>진도 접도 주차장</name>
+        <description><![CDATA[주소: 전남 진도군 의신면 금갑리 980-1<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 진도군 의신면 금갑리 980-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>영광 와탄천변 비밀의 화원</name>
+        <address>영광 와탄천변 비밀의 화원 전남 영광군 법성면 입암리 435-4</address>
+        <description><![CDATA[주소: 전남 영광군 법성면 입암리 435-4<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 영광군 법성면 입암리 435-4</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>대창골</name>
+        <address>대창골 충남 천안시 동남구 북면 운용리 117</address>
+        <description><![CDATA[주소: 충남 천안시 동남구 북면 운용리 117<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 천안시 동남구 북면 운용리 117</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>춘천 수변공원</name>
+        <address>춘천 수변공원 강원 춘천시 삼천동 200-9</address>
+        <description><![CDATA[주소: 강원 춘천시 삼천동 200-9<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 춘천시 삼천동 200-9</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>이가리 간이해변</name>
+        <address>이가리 간이해변 경북 포항시 북구 청하면 이가리 산 22-1</address>
+        <description><![CDATA[주소: 경북 포항시 북구 청하면 이가리 산 22-1<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 포항시 북구 청하면 이가리 산 22-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>하옥계곡 야영장</name>
+        <address>하옥계곡 야영장 경북 포항시 북구 죽장면 하옥리 681</address>
+        <description><![CDATA[주소: 경북 포항시 북구 죽장면 하옥리 681<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 포항시 북구 죽장면 하옥리 681</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>위배지미하류</name>
+        <address>위배지미하류 경북 포항시 북구 죽장면 하옥리 650-3</address>
+        <description><![CDATA[주소: 경북 포항시 북구 죽장면 하옥리 650-3<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 포항시 북구 죽장면 하옥리 650-3</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>진천 상송교</name>
+        <description><![CDATA[주소: 충북 진천군 백곡면 석현리 330-1<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 진천군 백곡면 석현리 330-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>청벽산 물골 유원지</name>
+        <address>청벽산 물골 유원지 강원 홍천군 내촌면 화상대리 산 377</address>
+        <description><![CDATA[주소: 강원 홍천군 내촌면 화상대리 산 377<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 홍천군 내촌면 화상대리 산 377</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>원남지</name>
+        <description><![CDATA[주소: 충북 음성군 원남면 조춘리 376-6<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 음성군 원남면 조춘리 376-6</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>쌍다리 야영장</name>
+        <description><![CDATA[주소: 강원 인제군 남면 소치리 산 21<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 인제군 남면 소치리 산 21</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>곰실교 다리밑</name>
+        <description><![CDATA[주소: 경북 울진군 기성면 정명리 879-1<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 울진군 기성면 정명리 879-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>여주 신륵사 입구 강변</name>
+        <description><![CDATA[주소: 경기 여주시 천송동 575<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경기 여주시 천송동 575</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>순천 용오름 계곡</name>
+        <address>순천 용오름 계곡 전남 순천시 주암면 운룡리 1019</address>
+        <description><![CDATA[주소: 전남 순천시 주암면 운룡리 1019<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 순천시 주암면 운룡리 1019</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>가덕교 근처 금강변</name>
+        <description><![CDATA[주소: 충북 옥천군 동이면 청마리 1105-1<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 옥천군 동이면 청마리 1105-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>작천교 다리밑</name>
+        <description><![CDATA[주소: 충남 청양군 대치면 작천리 138<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 청양군 대치면 작천리 138</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>관성 솔밭</name>
+        <description><![CDATA[주소: 경북 경주시 양남면 수렴리 425-1<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 경주시 양남면 수렴리 425-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>풍서천변</name>
+        <address>풍서천변 충남 천안시 동남구 광덕면 보산원리 687-1</address>
+        <description><![CDATA[주소: 충남 천안시 동남구 광덕면 보산원리 687-1<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 천안시 동남구 광덕면 보산원리 687-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>광덕산 간이 캠핑장</name>
+        <address>광덕산 간이 캠핑장 충남 천안시 동남구 광덕면 대덕리 420</address>
+        <description><![CDATA[주소: 충남 천안시 동남구 광덕면 대덕리 420<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 천안시 동남구 광덕면 대덕리 420</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>인삼골 캠핑장 주변 금강변</name>
+        <description><![CDATA[주소: 충남 금산군 제원면 용화리 711-1<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 금산군 제원면 용화리 711-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>고성 장신유원지</name>
+        <address>고성 장신유원지 강원 고성군 간섭읍 소똥령마을길 32 (장신리, 장신유원지휴게소)</address>
+        <description><![CDATA[주소: 강원 고성군 간섭읍 소똥령마을길 32 (장신리, 장신유원지휴게소)<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 고성군 간섭읍 소똥령마을길 32 (장신리, 장신유원지휴게소)</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>천안 OK캠핑장 주변</name>
+        <address>천안 OK캠핑장 주변 충남 천안시 동남구 북면 명덕리 603-6</address>
+        <description><![CDATA[주소: 충남 천안시 동남구 북면 명덕리 603-6<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 천안시 동남구 북면 명덕리 603-6</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>오지재고개 주변</name>
+        <description><![CDATA[주소: 경기 동두천시 탑동동 산 40<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경기 동두천시 탑동동 산 40</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>목계솔밭</name>
+        <address>목계솔밭 충북 충주시 중앙탑면 장천리 412-2</address>
+        <description><![CDATA[주소: 충북 충주시 중앙탑면 장천리 412-2<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 충주시 중앙탑면 장천리 412-2</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>섬강 문막교 주변</name>
+        <address>섬강 문막교 주변 강원 원주시 문막읍 취병리 438-73</address>
+        <description><![CDATA[주소: 강원 원주시 문막읍 취병리 438-73<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 원주시 문막읍 취병리 438-73</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>김제 금평저수지</name>
+        <address>김제 금평저수지 전북 김제시 금산면 금산리 산 106-2</address>
+        <description><![CDATA[주소: 전북 김제시 금산면 금산리 산 106-2<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용가능<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전북 김제시 금산면 금산리 산 106-2</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>단월강수욕장 주변</name>
+        <address>단월강수욕장 주변 충북 충주시 풍동 408-1</address>
+        <description><![CDATA[주소: 충북 충주시 풍동 408-1<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 충주시 풍동 408-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>화순 송석정 유원지</name>
+        <address>화순 송석정 유원지 전남 화순군 청풍면 풍암리 산 114</address>
+        <description><![CDATA[주소: 전남 화순군 청풍면 풍암리 산 114<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 화순군 청풍면 풍암리 산 114</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>문경 소야솔밭</name>
+        <address>문경 소야솔밭 경북 문경시 마성면 오천리 845-2</address>
+        <description><![CDATA[주소: 경북 문경시 마성면 오천리 845-2<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 문경시 마성면 오천리 845-2</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>평창 바위공원</name>
+        <address>평창 바위공원 강원 평창군 평창읍 중리 357</address>
+        <description><![CDATA[주소: 강원 평창군 평창읍 중리 357<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 평창군 평창읍 중리 357</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>섬강 유원지 부근</name>
+        <address>섬강 유원지 부근 강원 횡성군 횡성읍 북천리 221</address>
+        <description><![CDATA[주소: 강원 횡성군 횡성읍 북천리 221<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 횡성군 횡성읍 북천리 221</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>모곡밤벌 유원지</name>
+        <address>모곡밤벌 유원지 강원 홍천군 서면 모곡리 산 234</address>
+        <description><![CDATA[주소: 강원 홍천군 서면 모곡리 산 234<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 홍천군 서면 모곡리 산 234</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>횡성 농거리 야영장</name>
+        <description><![CDATA[주소: 강원 홍성군 청일면 유동리 1150<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 홍성군 청일면 유동리 1150</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>홍천 도사곡교 강변</name>
+        <description><![CDATA[주소: 강원 홍천군 북방면 굴지리 산 63<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 홍천군 북방면 굴지리 산 63</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>홍천강3교 다리 밑</name>
+        <address>홍천강3교 다리 밑 강원 홍천군 북방면 소매곡리 산 16-1</address>
+        <description><![CDATA[주소: 강원 홍천군 북방면 소매곡리 산 16-1<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 홍천군 북방면 소매곡리 산 16-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>석모도 어류정항</name>
+        <address>석모도 어류정항 인천 강화군 삼산면 매음리 1157</address>
+        <description><![CDATA[주소: 인천 강화군 삼산면 매음리 1157<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>인천 강화군 삼산면 매음리 1157</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>탄도 인공 습지공원</name>
+        <description><![CDATA[주소: 경기 화성시 송산면 송산서로 183-26<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경기 화성시 송산면 송산서로 183-26</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>영광 백바위 해변</name>
+        <address>영광 백바위 해변 전남 영광군 염산면 두우리 631</address>
+        <description><![CDATA[주소: 전남 영광군 염산면 두우리 631<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 영광군 염산면 두우리 631</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>남양주 북한강변</name>
+        <address>남양주 북한강변 경기 남양주시 화도읍 구암리 98-2</address>
+        <description><![CDATA[주소: 경기 남양주시 화도읍 구암리 98-2<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경기 남양주시 화도읍 구암리 98-2</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>광탄리 유원지</name>
+        <address>광탄리 유원지 경기 양평군 용문면 광탄리 산 54</address>
+        <description><![CDATA[주소: 경기 양평군 용문면 광탄리 산 54<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경기 양평군 용문면 광탄리 산 54</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>본포 수변생태공원</name>
+        <address>본포 수변생태공원 경남 창원시 의창구 동읍 본포리 142-4</address>
+        <description><![CDATA[주소: 경남 창원시 의창구 동읍 본포리 142-4<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경남 창원시 의창구 동읍 본포리 142-4</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>필례 약수터</name>
+        <address>필례 약수터 강원 인제군 인제읍 귀둔리 1055-1</address>
+        <description><![CDATA[주소: 강원 인제군 인제읍 귀둔리 1055-1<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 인제군 인제읍 귀둔리 1055-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>보성 군학마을 솔밭</name>
+        <description><![CDATA[주소: 전남 보성군 회천면 남부관광로 1814-6<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 보성군 회천면 남부관광로 1814-6</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>송악저수지</name>
+        <address>송악저수지 충남 아산시 송악면 궁평리 212-1</address>
+        <description><![CDATA[주소: 충남 아산시 송악면 궁평리 212-1<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 아산시 송악면 궁평리 212-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>순긋해변</name>
+        <address>순긋해변 강원 강릉시 안현동 233-3</address>
+        <description><![CDATA[주소: 강원 강릉시 안현동 233-3<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 강릉시 안현동 233-3</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>광치기 해변</name>
+        <address>광치기 해변 제주특별자치도 서귀포시 성산읍 고성리 224-7</address>
+        <description><![CDATA[주소: 제주특별자치도 서귀포시 성산읍 고성리 224-7<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>제주특별자치도 서귀포시 성산읍 고성리 224-7</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>이포보 노지</name>
+        <address>이포보 노지 경기 여주시 대신면 당남리 318</address>
+        <description><![CDATA[주소: 경기 여주시 대신면 당남리 318<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경기 여주시 대신면 당남리 318</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>장성 황룡 전적지</name>
+        <address>장성 황룡 전적지 전남 장성군 황룡면 장산리 360-2</address>
+        <description><![CDATA[주소: 전남 장성군 황룡면 장산리 360-2<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 장성군 황룡면 장산리 360-2</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>지천 강변</name>
+        <address>지천 강변 충남 청양군 장평면 지천리 275-1</address>
+        <description><![CDATA[주소: 충남 청양군 장평면 지천리 275-1<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 청양군 장평면 지천리 275-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>천안 은석교 주변</name>
+        <address>천안 은석교 주변 충남 천안시 동남구 북면 용암리 341</address>
+        <description><![CDATA[주소: 충남 천안시 동남구 북면 용암리 341<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 천안시 동남구 북면 용암리 341</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>비내섬</name>
+        <address>비내섬 충북 충주시 앙성면 조천리 412</address>
+        <description><![CDATA[주소: 충북 충주시 앙성면 조천리 412<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 충주시 앙성면 조천리 412</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>단지골 야영장</name>
+        <address>단지골 야영장 강원 횡성군 안흥면 안흥리 산 109</address>
+        <description><![CDATA[주소: 강원 횡성군 안흥면 안흥리 산 109<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 횡성군 안흥면 안흥리 산 109</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>안악해수욕장 솔밭</name>
+        <address>안악해수욕장 솔밭 전남 함평군 손불면 월천리 1140</address>
+        <description><![CDATA[주소: 전남 함평군 손불면 월천리 1140<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 함평군 손불면 월천리 1140</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>원서천변 노지</name>
+        <address>원서천변 노지 충북 충주시 산척면 석천리 산 3-4</address>
+        <description><![CDATA[주소: 충북 충주시 산척면 석천리 산 3-4<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 충주시 산척면 석천리 산 3-4</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>고마나루 솔밭 공터</name>
+        <address>고마나루 솔밭 공터 충남 공주시 웅진동 458</address>
+        <description><![CDATA[주소: 충남 공주시 웅진동 458<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 공주시 웅진동 458</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>거제도 해변</name>
+        <address>거제도 해변 경남 거제시 동부면 학동리 산 12-24</address>
+        <description><![CDATA[주소: 경남 거제시 동부면 학동리 산 12-24<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경남 거제시 동부면 학동리 산 12-24</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>장수 덕산제 주변 공터</name>
+        <address>장수 덕산제 주변 공터 전북 장수군 장수읍 덕산리 804</address>
+        <description><![CDATA[주소: 전북 장수군 장수읍 덕산리 804<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전북 장수군 장수읍 덕산리 804</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>연하계곡</name>
+        <address>연하계곡 강원 영월군 영월읍 연하리 1071</address>
+        <description><![CDATA[주소: 강원 영월군 영월읍 연하리 1071<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 영월군 영월읍 연하리 1071</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>병지방 오토캠핑장 주변 계곡</name>
+        <address>병지방 오토캠핑장 주변 계곡 강원 횡성군 갑천면 병지방리 산 20</address>
+        <description><![CDATA[주소: 강원 횡성군 갑천면 병지방리 산 20<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 횡성군 갑천면 병지방리 산 20</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>금강2교 차박지A</name>
+        <address>금강2교 차박지A 충북 옥천군 동이면 금암리 1139</address>
+        <description><![CDATA[주소: 충북 옥천군 동이면 금암리 1139<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 옥천군 동이면 금암리 1139</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>금강2교 차박지B</name>
+        <description><![CDATA[주소: 충북 옥천군 동이면 적하리 1419<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 옥천군 동이면 적하리 1419</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>남노일 강변유원지</name>
+        <address>남노일 강변유원지 강원 홍천군 남면 남노일리 369</address>
+        <description><![CDATA[주소: 강원 홍천군 남면 남노일리 369<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 홍천군 남면 남노일리 369</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>강정 자연발생 유원지A</name>
+        <address>강정 자연발생 유원지A 경남 함양군 유림면 장항리 산 1-1</address>
+        <description><![CDATA[주소: 경남 함양군 유림면 장항리 산 1-1<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경남 함양군 유림면 장항리 산 1-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>강정 자연발생 유원지B</name>
+        <address>강정 자연발생 유원지B 경남 산청군 생초면 산수로 1153번길 151</address>
+        <description><![CDATA[주소: 경남 산청군 생초면 산수로 1153번길 151<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경남 산청군 생초면 산수로 1153번길 151</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>도장계곡 자연발생유원지</name>
+        <address>도장계곡 자연발생유원지 경기 양평군 서종면 도장리 321</address>
+        <description><![CDATA[주소: 경기 양평군 서종면 도장리 321<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경기 양평군 서종면 도장리 321</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>수룡계곡 주차장</name>
+        <description><![CDATA[주소: 충북 충주시 노은면 수룡리 산 32-1<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 충주시 노은면 수룡리 산 32-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>백제보 나루터 주변 금강변</name>
+        <address>백제보 나루터 주변 금강변 충남 부여군 부여읍 정동리 184-1</address>
+        <description><![CDATA[주소: 충남 부여군 부여읍 정동리 184-1<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 부여군 부여읍 정동리 184-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>부여 수리바위 광장</name>
+        <description><![CDATA[주소: 충남 부여군 외산면 만수리 산 29-4<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 부여군 외산면 만수리 산 29-4</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>함양 남강 물줄기 계곡</name>
+        <address>함양 남강 물줄기 계곡 경남 함양군 서하면 봉전리 2021</address>
+        <description><![CDATA[주소: 경남 함양군 서하면 봉전리 2021<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경남 함양군 서하면 봉전리 2021</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>아랫당숲 캠핑장</name>
+        <address>아랫당숲 캠핑장 강원 원주시 신림면 성남리 1061</address>
+        <description><![CDATA[주소: 강원 원주시 신림면 성남리 1061<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 원주시 신림면 성남리 1061</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>추평저수지A</name>
+        <address>추평저수지A 충북 충주시 엄정면 가춘리 753-6</address>
+        <description><![CDATA[주소: 충북 충주시 엄정면 가춘리 753-6<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 충주시 엄정면 가춘리 753-6</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>추평저수지B</name>
+        <description><![CDATA[주소: 충북 충주시 엄정면 가춘리 486<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 충주시 엄정면 가춘리 486</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>임실군 섬진강변</name>
+        <description><![CDATA[주소: 전북 임실군 덕치면 천담리 105-4<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전북 임실군 덕치면 천담리 105-4</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>용동 해수욕장 솔밭</name>
+        <description><![CDATA[주소: 전남 고흥군 도덕면 용동리 590<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 고흥군 도덕면 용동리 590</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>남성리 해수욕장 솔밭</name>
+        <description><![CDATA[주소: 전남 고흥군 포두면 남성리 203-1<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 고흥군 포두면 남성리 203-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>고창CC 주변 노지</name>
+        <description><![CDATA[주소: 전북 고창군 심원면 고전리 산 24-14<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전북 고창군 심원면 고전리 산 24-14</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>고병계곡</name>
+        <address>고병계곡 강원 정선군 남면 유평리 65</address>
+        <description><![CDATA[주소: 강원 정선군 남면 유평리 65<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 정선군 남면 유평리 65</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>거창자연발생유원지 계곡상류A</name>
+        <address>거창자연발생유원지 계곡상류A 경남 거창군 가조면 수월리 산 11</address>
+        <description><![CDATA[주소: 경남 거창군 가조면 수월리 산 11<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경남 거창군 가조면 수월리 산 11</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>거창자연발생유원지 계곡상류B</name>
+        <address>거창자연발생유원지 계곡상류B 경남 거창군 가조면 수월리 산 11-4</address>
+        <description><![CDATA[주소: 경남 거창군 가조면 수월리 산 11-4<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경남 거창군 가조면 수월리 산 11-4</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>봉길해변</name>
+        <address>봉길해변 경북 경주시 양북면 봉길리 6-12</address>
+        <description><![CDATA[주소: 경북 경주시 양북면 봉길리 6-12<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 경주시 양북면 봉길리 6-12</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>울산 해변수변공원</name>
+        <address>울산 해변수변공원 울산 북구 판지1길 5</address>
+        <description><![CDATA[주소: 울산 북구 판지1길 5<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>울산 북구 판지1길 5</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>구암마을 주전해변</name>
+        <description><![CDATA[주소: 울산 북구 어물동 272-1<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>울산 북구 어물동 272-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>안성천변</name>
+        <address>안성천변 경기 평택시 오성면 당거리 223-2</address>
+        <description><![CDATA[주소: 경기 평택시 오성면 당거리 223-2<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경기 평택시 오성면 당거리 223-2</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>화진해수욕장</name>
+        <address>화진해수욕장 경북 포항시 북구 송라면 지경리 334</address>
+        <description><![CDATA[주소: 경북 포항시 북구 송라면 지경리 334<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 포항시 북구 송라면 지경리 334</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>우천 자연발생 유원지</name>
+        <address>우천 자연발생 유원지 경남 사천시 사남면 우천리 1231-1</address>
+        <description><![CDATA[주소: 경남 사천시 사남면 우천리 1231-1<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경남 사천시 사남면 우천리 1231-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>대조못 수변공원 야영지</name>
+        <description><![CDATA[주소: 경북 상주시 함창읍 대조리 638-1<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 상주시 함창읍 대조리 638-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>적봉교 다리밑</name>
+        <address>적봉교 다리밑 경기 평택시 서탄면 금암리 126-10</address>
+        <description><![CDATA[주소: 경기 평택시 서탄면 금암리 126-10<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경기 평택시 서탄면 금암리 126-10</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>청천 수변공원B</name>
+        <description><![CDATA[주소: 충북 괴산군 청천면 후평리 550<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 괴산군 청천면 후평리 550</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>청천 수변공원A</name>
+        <description><![CDATA[주소: 충북 괴산군 청천면 후평리 550<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 괴산군 청천면 후평리 550</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>장등해수욕장 주차장</name>
+        <address>장등해수욕장 주차장 전남 여수시 화양면 장수리 319</address>
+        <description><![CDATA[주소: 전남 여수시 화양면 장수리 319<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 여수시 화양면 장수리 319</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>초상제 공터</name>
+        <description><![CDATA[주소: 전남 진도군 의신면 초사리 1100-1<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 진도군 의신면 초사리 1100-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>간월호 쉼터공원</name>
+        <description><![CDATA[주소: 충남 서산시 부석면 창리 265-1<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 서산시 부석면 창리 265-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>지곡사 계곡</name>
+        <address>지곡사 계곡 경남 산청군 산청읍 내리 1125</address>
+        <description><![CDATA[주소: 경남 산청군 산청읍 내리 1125<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경남 산청군 산청읍 내리 1125</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>천장호 노지</name>
+        <description><![CDATA[주소: 충남 청양군 정산면 마치리 49-2<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 청양군 정산면 마치리 49-2</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>광품폭포B</name>
+        <address>광품폭포B 경북 울진군 온정면 광품리 59-1</address>
+        <description><![CDATA[주소: 경북 울진군 온정면 광품리 59-1<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 울진군 온정면 광품리 59-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>광품폭포A</name>
+        <address>광품폭포A 경북 울진군 온정면 광품리 215-3</address>
+        <description><![CDATA[주소: 경북 울진군 온정면 광품리 215-3<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 울진군 온정면 광품리 215-3</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>후정해수욕장</name>
+        <address>후정해수욕장 경북 울진군 죽변면 후정리 53-8</address>
+        <description><![CDATA[주소: 경북 울진군 죽변면 후정리 53-8<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 울진군 죽변면 후정리 53-8</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>현경면 해변</name>
+        <description><![CDATA[주소: 전남 무안군 현경면 용정리 18-7<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 무안군 현경면 용정리 18-7</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>금강변 노지</name>
+        <address>금강변 노지 전북 장수군 천천면 용광리 484</address>
+        <description><![CDATA[주소: 전북 장수군 천천면 용광리 484<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전북 장수군 천천면 용광리 484</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>양평 율리교 밑 강변</name>
+        <address>양평 율리교 밑 강변 경기 양평군 청운면 비룡리 824</address>
+        <description><![CDATA[주소: 경기 양평군 청운면 비룡리 824<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경기 양평군 청운면 비룡리 824</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>백곡지 상류</name>
+        <description><![CDATA[주소: 충북 진천군 진천읍 건송리 523-2<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 진천군 진천읍 건송리 523-2</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>대청호 부수골</name>
+        <description><![CDATA[주소: 대전 대덕구 부수동 63-1<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>대전 대덕구 부수동 63-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>생태습지 공터</name>
+        <address>생태습지 공터 대전 대덕구 이현동 1</address>
+        <description><![CDATA[주소: 대전 대덕구 이현동 1<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>대전 대덕구 이현동 1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>진안 가막 유원지</name>
+        <address>진안 가막 유원지 전북 진안군 진안읍 가막리 209-2</address>
+        <description><![CDATA[주소: 전북 진안군 진안읍 가막리 209-2<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전북 진안군 진안읍 가막리 209-2</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>지촌천변</name>
+        <description><![CDATA[주소: 강원 춘천시 사북면 지촌리 15-1<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 춘천시 사북면 지촌리 15-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>동산해수욕장 솔밭</name>
+        <description><![CDATA[주소: 강원 양양군 현남면 동산리 203-54<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 양양군 현남면 동산리 203-54</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>당전저수지 노지</name>
+        <address>당전저수지 노지 전남 강진군 대구면 용운리 산 94-37</address>
+        <description><![CDATA[주소: 전남 강진군 대구면 용운리 산 94-37<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 강진군 대구면 용운리 산 94-37</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>안동 천지교 주변</name>
+        <address>안동 천지교 주변 경북 안동시 길안면 천지리 594-1</address>
+        <description><![CDATA[주소: 경북 안동시 길안면 천지리 594-1<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 안동시 길안면 천지리 594-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>담양 오례천변</name>
+        <address>담양 오례천변 전남 담양군 봉산면 제월리 793-7</address>
+        <description><![CDATA[주소: 전남 담양군 봉산면 제월리 793-7<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 담양군 봉산면 제월리 793-7</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>매전교 주변</name>
+        <address>매전교 주변 경북 청도군 매전면 당호리 466-9</address>
+        <description><![CDATA[주소: 경북 청도군 매전면 당호리 466-9<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 청도군 매전면 당호리 466-9</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>매호유원지</name>
+        <address>매호유원지 경북 봉화군 명호면 도천리 산 348</address>
+        <description><![CDATA[주소: 경북 봉화군 명호면 도천리 산 348<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 봉화군 명호면 도천리 산 348</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>무주 산댐이골</name>
+        <address>무주 산댐이골 충남 금산군 부리면 방우리 46-1</address>
+        <description><![CDATA[주소: 충남 금산군 부리면 방우리 46-1<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 금산군 부리면 방우리 46-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>장암산 해피700 활공장</name>
+        <description><![CDATA[주소: 강원 평창군 평창읍 여만리 산 46<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 평창군 평창읍 여만리 산 46</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>나아 해변 노지</name>
+        <description><![CDATA[주소: 경북 경주시 양남면 나아리 844-11<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 경주시 양남면 나아리 844-11</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>부사호</name>
+        <address>부사호 충남 서천군 서면 부사리 987</address>
+        <description><![CDATA[주소: 충남 서천군 서면 부사리 987<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 서천군 서면 부사리 987</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>천안 마도 방파제</name>
+        <address>천안 마도 방파제 충남 태안군 근흥면 마도길 273</address>
+        <description><![CDATA[주소: 충남 태안군 근흥면 마도길 273<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 태안군 근흥면 마도길 273</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>신기교 노지</name>
+        <description><![CDATA[주소: 경북 영덕군 창수면 신기리 산 331<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 영덕군 창수면 신기리 산 331</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>산림청연수원 주차장</name>
+        <address>산림청연수원 주차장 전북 부안군 변산면 도청리 212-5</address>
+        <description><![CDATA[주소: 전북 부안군 변산면 도청리 212-5<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전북 부안군 변산면 도청리 212-5</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>장전계곡 상류</name>
+        <address>장전계곡 상류 강원 평창군 진부면 장전리 97</address>
+        <description><![CDATA[주소: 강원 평창군 진부면 장전리 97<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 평창군 진부면 장전리 97</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>정선 어천 주상절리 (SUV차량만)</name>
+        <address>정선 어천 주상절리 (SUV차량만) 강원 정선군 정선읍 덕우리 303-1</address>
+        <description><![CDATA[주소: 강원 정선군 정선읍 덕우리 303-1<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 정선군 정선읍 덕우리 303-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>광암해수욕장 </name>
+        <address>광암해수욕장  경남 창원시 마산합포구 진동면 요장리 230</address>
+        <description><![CDATA[주소: 경남 창원시 마산합포구 진동면 요장리 230<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경남 창원시 마산합포구 진동면 요장리 230</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>외양포항 주차장</name>
+        <description><![CDATA[주소: 부산 강서구 대항동 산 13-23<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>부산 강서구 대항동 산 13-23</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>알뜨르비행장 주변 공터</name>
+        <address>알뜨르비행장 주변 공터 제주특별자치도 서귀포시 대정읍 상모리 1670-3</address>
+        <description><![CDATA[주소: 제주특별자치도 서귀포시 대정읍 상모리 1670-3<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>제주특별자치도 서귀포시 대정읍 상모리 1670-3</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>감포읍 해변 노지</name>
+        <address>감포읍 해변 노지 경북 경주시 감포읍 전촌리 산 13-1</address>
+        <description><![CDATA[주소: 경북 경주시 감포읍 전촌리 산 13-1<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 경주시 감포읍 전촌리 산 13-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>대본2리 해변 주차장</name>
+        <description><![CDATA[주소: 경상북도 경주시 감포읍 동해안로 1618 <br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경상북도 경주시 감포읍 동해안로 1618 </value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>괴산 외쌍 유원지</name>
+        <address>괴산 외쌍 유원지 충북 괴산군 칠성면 쌍곡리 232-1</address>
+        <description><![CDATA[주소: 충북 괴산군 칠성면 쌍곡리 232-1<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 괴산군 칠성면 쌍곡리 232-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>논산 병암 유원지</name>
+        <description><![CDATA[주소: 충남 논산시 가야곡면 병암리 570-4<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 논산시 가야곡면 병암리 570-4</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>장사해변 졸음쉼터 주변</name>
+        <address>장사해변 졸음쉼터 주변 경북 영덕군 남정면 장사리 4-3</address>
+        <description><![CDATA[주소: 경북 영덕군 남정면 장사리 4-3<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 영덕군 남정면 장사리 4-3</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>섭새강변 유원지</name>
+        <address>섭새강변 유원지 강원도 영월군 영월읍 삼옥리 199-3</address>
+        <description><![CDATA[주소: 강원도 영월군 영월읍 삼옥리 199-3<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원도 영월군 영월읍 삼옥리 199-3</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>유곡천 수변공원</name>
+        <description><![CDATA[주소: 경남 의령군 유곡면 칠곡리 515<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경남 의령군 유곡면 칠곡리 515</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>목도 강변유원지</name>
+        <address>목도 강변유원지 충북 괴산군 불정면 목도리 864-19</address>
+        <description><![CDATA[주소: 충북 괴산군 불정면 목도리 864-19<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 괴산군 불정면 목도리 864-19</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>유동 둔치 휴양지</name>
+        <address>유동 둔치 휴양지 강원 평창군 평창읍 유동리 293</address>
+        <description><![CDATA[주소: 강원 평창군 평창읍 유동리 293<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 평창군 평창읍 유동리 293</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>화천박물관</name>
+        <address>화천박물관 강원 화천군 하남면 위라리 509-2</address>
+        <description><![CDATA[주소: 강원 화천군 하남면 위라리 509-2<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 화천군 하남면 위라리 509-2</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>괴산 후영교 주변</name>
+        <address>괴산 후영교 주변 충북 괴산군 청천면 후영리 143-5</address>
+        <description><![CDATA[주소: 충북 괴산군 청천면 후영리 143-5<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 괴산군 청천면 후영리 143-5</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>추령천 노지</name>
+        <address>추령천 노지 전북 정읍시 산내면 매죽리 565</address>
+        <description><![CDATA[주소: 전북 정읍시 산내면 매죽리 565<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전북 정읍시 산내면 매죽리 565</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>봄여름가을이야기 펜션 주변</name>
+        <address>봄여름가을이야기 펜션 주변 경북 봉화군 법전면 소천리 871</address>
+        <description><![CDATA[주소: 경북 봉화군 법전면 소천리 871<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 봉화군 법전면 소천리 871</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>장삼포해수욕장 솔밭</name>
+        <description><![CDATA[주소: 충남 태안군 고남면 큰장돌길 283-33  <br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 태안군 고남면 큰장돌길 283-33  </value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>용담 섬바위 강변</name>
+        <address>용담 섬바위 강변 전북 진안군 안천면 삼락리 1595</address>
+        <description><![CDATA[주소: 전북 진안군 안천면 삼락리 1595<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전북 진안군 안천면 삼락리 1595</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>염치저수지</name>
+        <address>염치저수지 충남 아산시 염치읍 동정리 220</address>
+        <description><![CDATA[주소: 충남 아산시 염치읍 동정리 220<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 아산시 염치읍 동정리 220</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>대부도 메추리섬 노지</name>
+        <description><![CDATA[주소: 경기 안산시 단원구 대부남동 1345-3<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경기 안산시 단원구 대부남동 1345-3</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>중산저수지 노지</name>
+        <description><![CDATA[주소: 충북 충주시 수안보면 중산리 125-2<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 충주시 수안보면 중산리 125-2</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>오두교 다리밑</name>
+        <address>오두교 다리밑 경기 남양주시 진접읍 부평리 498-6</address>
+        <description><![CDATA[주소: 경기 남양주시 진접읍 부평리 498-6<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경기 남양주시 진접읍 부평리 498-6</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>영종도 노지</name>
+        <description><![CDATA[주소: 인천 중구 운남동 1754-9<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>인천 중구 운남동 1754-9</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>삼척 해변 주변</name>
+        <address>삼척 해변 주변 강원 삼척시 갈천동 14-18</address>
+        <description><![CDATA[주소: 강원 삼척시 갈천동 14-18<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 삼척시 갈천동 14-18</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>태안 방포항 부근 노지</name>
+        <address>태안 방포항 부근 노지 충남 태안군 안면읍 승언리 1317-19</address>
+        <description><![CDATA[주소: 충남 태안군 안면읍 승언리 1317-19<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 태안군 안면읍 승언리 1317-19</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>노산리 솔밭 자연유원지</name>
+        <address>노산리 솔밭 자연유원지 충북 청주시 서원구 현도면 노산리 897-2</address>
+        <description><![CDATA[주소: 충북 청주시 서원구 현도면 노산리 897-2<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 청주시 서원구 현도면 노산리 897-2</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>홍천 성동리 성동천변</name>
+        <description><![CDATA[주소: 강원 홍천군 북방면 성동리 721-4<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 홍천군 북방면 성동리 721-4</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>금소생태공원</name>
+        <address>금소생태공원 경북 안동시 임하면 금소리 1028-88</address>
+        <description><![CDATA[주소: 경북 안동시 임하면 금소리 1028-88<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 안동시 임하면 금소리 1028-88</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>하동 상이리 횡천강 계곡</name>
+        <address>하동 상이리 횡천강 계곡 경남 하동군 청암면 상이리 505-6</address>
+        <description><![CDATA[주소: 경남 하동군 청암면 상이리 505-6<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경남 하동군 청암면 상이리 505-6</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>덕산기계곡 주변</name>
+        <description><![CDATA[주소: 강원 정선군 정선읍 덕우리 산 39-4<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 정선군 정선읍 덕우리 산 39-4</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>모암저수지 주차장</name>
+        <description><![CDATA[주소: 전남 장성군 서삼면 모암리 569-5<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 장성군 서삼면 모암리 569-5</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>운일암 반일암 </name>
+        <address>운일암 반일암  전북 진안군 주천면 대불리 26</address>
+        <description><![CDATA[주소: 전북 진안군 주천면 대불리 26<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전북 진안군 주천면 대불리 26</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>만다라화 시 공원</name>
+        <address>만다라화 시 공원 경남 거제시 동부면 부춘리 산 56-2</address>
+        <description><![CDATA[주소: 경남 거제시 동부면 부춘리 산 56-2<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경남 거제시 동부면 부춘리 산 56-2</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>고령 신촌유원지 캠핑장</name>
+        <address>고령 신촌유원지 캠핑장 경북 고령군 쌍림면 산주리 797-1</address>
+        <description><![CDATA[주소: 경북 고령군 쌍림면 산주리 797-1<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 고령군 쌍림면 산주리 797-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>염포 해변</name>
+        <address>염포 해변 전남 고흥군 봉래면 외초리 325-5</address>
+        <description><![CDATA[주소: 전남 고흥군 봉래면 외초리 325-5<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 고흥군 봉래면 외초리 325-5</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>진리해변 주차장</name>
+        <address>진리해변 주차장 경북 경주시 양남면 진리길 17</address>
+        <description><![CDATA[주소: 경북 경주시 양남면 진리길 17 <br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 경주시 양남면 진리길 17 </value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>봉화 삼계 쉼터</name>
+        <description><![CDATA[주소: 경북 봉화군 봉화읍 삼계리 32-5<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 봉화군 봉화읍 삼계리 32-5</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>문암 해변 노지</name>
+        <description><![CDATA[주소: 강원 삼척시 근덕면 초곡리 287-2<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 삼척시 근덕면 초곡리 287-2</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>부안 궁항 주차장</name>
+        <description><![CDATA[주소: 전북 부안군 변산면 격포리 720-2<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전북 부안군 변산면 격포리 720-2</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>남한강대교B</name>
+        <address>남한강대교B 충북 충주시 앙성면 단암리 95-1</address>
+        <description><![CDATA[주소: 충북 충주시 앙성면 단암리 95-1<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충북 충주시 앙성면 단암리 95-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>남한강대교A</name>
+        <address>남한강대교A 강원 원주시 부론면 법천리 1617</address>
+        <description><![CDATA[주소: 강원 원주시 부론면 법천리 1617<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 원주시 부론면 법천리 1617</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>평창 방림리 평창강변</name>
+        <address>평창 방림리 평창강변 강원 평창군 방림면 방림리 576-1</address>
+        <description><![CDATA[주소: 강원 평창군 방림면 방림리 576-1<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 평창군 방림면 방림리 576-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>개수리 노지</name>
+        <address>개수리 노지 강원 평창군 대화면 개수리 733</address>
+        <description><![CDATA[주소: 강원 평창군 대화면 개수리 733<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 평창군 대화면 개수리 733</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>법흥계곡 노지</name>
+        <address>법흥계곡 노지 강원 영월군 무릉도원면 법흥리 산 1-1</address>
+        <description><![CDATA[주소: 강원 영월군 무릉도원면 법흥리 산 1-1<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 영월군 무릉도원면 법흥리 산 1-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>홍천 굴지리 노지</name>
+        <address>홍천 굴지리 노지 강원 홍천군 북방면 굴지리 산 63</address>
+        <description><![CDATA[주소: 강원 홍천군 북방면 굴지리 산 63<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 홍천군 북방면 굴지리 산 63</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>평창 뇌운리 노지</name>
+        <address>평창 뇌운리 노지 강원 평창군 평창읍 뇌운리 121-7</address>
+        <description><![CDATA[주소: 강원 평창군 평창읍 뇌운리 121-7<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 평창군 평창읍 뇌운리 121-7</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>평창 하일리</name>
+        <address>평창 하일리 강원 평창군 평창읍 하일리 산 1-1</address>
+        <description><![CDATA[주소: 강원 평창군 평창읍 하일리 산 1-1<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 평창군 평창읍 하일리 산 1-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>찬샘마을 오지 (SUV차량만)</name>
+        <description><![CDATA[주소: 대전 대덕구 갈전동 산 23-10<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>대전 대덕구 갈전동 산 23-10</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>무주 대소교 주변</name>
+        <address>무주 대소교 주변 전북 무주군 부남면 대소리 492</address>
+        <description><![CDATA[주소: 전북 무주군 부남면 대소리 492<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전북 무주군 부남면 대소리 492</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>금산 무지개다리 강변</name>
+        <address>금산 무지개다리 강변 충남 금산군 부리면 평촌리 10-5</address>
+        <description><![CDATA[주소: 충남 금산군 부리면 평촌리 10-5<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 금산군 부리면 평촌리 10-5</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>영월 주천2교 주변</name>
+        <address>영월 주천2교 주변 강원 영월군 주천면 주천리 1124-2</address>
+        <description><![CDATA[주소: 강원 영월군 주천면 주천리 1124-2<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 영월군 주천면 주천리 1124-2</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>다산 은행나무숲</name>
+        <description><![CDATA[주소: 경북 고령군 다산면 좌학리 969<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 고령군 다산면 좌학리 969</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>보성 겸백 솔밭</name>
+        <address>보성 겸백 솔밭 전남 보성군 겸백면 도안리 산 31-1</address>
+        <description><![CDATA[주소: 전남 보성군 겸백면 도안리 산 31-1<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 보성군 겸백면 도안리 산 31-1</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>밀양 금시당 유원지</name>
+        <address>밀양 금시당 유원지 경남 밀양시 활성로 24-61 (활성동)</address>
+        <description><![CDATA[주소: 경남 밀양시 활성로 24-61 (활성동) <br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경남 밀양시 활성로 24-61 (활성동) </value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>도리지구공원 주변</name>
+        <address>도리지구공원 주변 경기 여주시 점동면 도리 379</address>
+        <description><![CDATA[주소: 경기 여주시 점동면 도리 379<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경기 여주시 점동면 도리 379</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>맹방해변 노지</name>
+        <address>맹방해변 노지 강원 삼척시 근덕면 하맹방리 221-5</address>
+        <description><![CDATA[주소: 강원 삼척시 근덕면 하맹방리 221-5<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 삼척시 근덕면 하맹방리 221-5</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>부여 구경정나루</name>
+        <description><![CDATA[주소: 충남 부여군 세도면 간대리 6-3<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>충남 부여군 세도면 간대리 6-3</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>영월 선돌관광지 주변</name>
+        <address>영월 선돌관광지 주변 강원 영월군 남면 북쌍리 55-4</address>
+        <description><![CDATA[주소: 강원 영월군 남면 북쌍리 55-4<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 영월군 남면 북쌍리 55-4</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>영월 서강변</name>
+        <address>영월 서강변 강원 영월군 남면 북쌍리 172-6</address>
+        <description><![CDATA[주소: 강원 영월군 남면 북쌍리 172-6<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>강원 영월군 남면 북쌍리 172-6</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>곡성 섬진강변</name>
+        <description><![CDATA[주소: 전남 곡성군 오곡면 침곡리 103-8<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 곡성군 오곡면 침곡리 103-8</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>큰골 저수지</name>
+        <address>큰골 저수지 울산 북구 무룡동 978</address>
+        <description><![CDATA[주소: 울산 북구 무룡동 978<br>주변 공중화장실: 사용불가<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>울산 북구 무룡동 978</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>문경 야구장</name>
+        <address>문경 야구장 경북 문경시 영순면 이목리 37</address>
+        <description><![CDATA[주소: 경북 문경시 영순면 이목리 37<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>경북 문경시 영순면 이목리 37</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>평림댐 공원</name>
+        <address>평림댐 공원 전남 장성군 삼계면 수옥리 854-12</address>
+        <description><![CDATA[주소: 전남 장성군 삼계면 수옥리 854-12<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>전남 장성군 삼계면 수옥리 854-12</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>마시안 해변</name>
+        <address>마시안 해변 인천 중구 덕교동 662-5</address>
+        <description><![CDATA[주소: 인천 중구 덕교동 662-5<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용불가<br>주변 수돗물: 사용불가]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>인천 중구 덕교동 662-5</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용불가</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용불가</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>실미도 유원지</name>
+        <address>실미도 유원지 인천 중구 무의동 768-5</address>
+        <description><![CDATA[주소: 인천 중구 무의동 768-5<br>주변 공중화장실: 사용가능<br>주변 개수대: 사용가능<br>주변 수돗물: 사용가능]]></description>
+        <styleUrl>#icon-1763-1A237E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="주소">
+            <value>인천 중구 무의동 768-5</value>
+          </Data>
+          <Data name="주변 공중화장실">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 개수대">
+            <value>사용가능</value>
+          </Data>
+          <Data name="주변 수돗물">
+            <value>사용가능</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

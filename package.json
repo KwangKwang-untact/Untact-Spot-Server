@@ -1,0 +1,12 @@
+{
+  "name": "Untact-Spot-Server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/KwangKwang-untact/Untact-Spot-Server/",
+  "author": "LeeJaeWonLJW <jaewon@jaewon.me>",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "mongoose": "^5.11.8"
+  }
+}
