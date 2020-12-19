@@ -10,6 +10,10 @@ const spotSchema = mongoose.Schema(
         detail: {
             type: String,
         },
+        location: {
+            type: { type: String },
+            coordinates: []
+        },
         longitude: {
             type: Number,
             required: true,
@@ -44,10 +48,6 @@ const spotSchema = mongoose.Schema(
         tag: {
             type: Array, 
         },
-        updated: {
-            type: Date,
-            default: Date.now,
-        },
     },
     {
         timestamps: true,
@@ -56,6 +56,7 @@ const spotSchema = mongoose.Schema(
 
 spotSchema.plugin(toJSON);
 spotSchema.plugin(paginate);
+spotSchema.index({ location: "2dsphere" });
 
 spotSchema.pre('save', async (next) => {
     this.updated = Date.now();
