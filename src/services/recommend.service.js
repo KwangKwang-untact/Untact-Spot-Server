@@ -58,6 +58,18 @@ const getRecommend = async (req) => {
   return dataSpot;
 };
 
+const getDetail = async (req) => {
+
+    const { id } = req.query;
+    logger.debug(id);
+
+    const dataSpot = await Spot.findOne({
+        pk: id
+    });
+
+    return dataSpot;
+};
+
 const computeDistance = async (startCoords, destCoords) => {
     const startLatRads = degreesToRadians(startCoords.latitude);
     const startLongRads = degreesToRadians(startCoords.longitude);
@@ -153,5 +165,6 @@ const computeDistance = async (startCoords, destCoords) => {
 // };
 
 module.exports = {
-  getRecommend,
+    getRecommend,
+    getDetail,
 };

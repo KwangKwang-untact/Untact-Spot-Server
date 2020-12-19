@@ -10,7 +10,14 @@ const getRecommend = {
   }),
 };
 
+const getDetail = {
+  query: Joi.object().keys({ 
+    id: Joi.string().required(),
+  }),
+};
+
 
 module.exports = {
   getRecommend,
+  getDetail,
 };

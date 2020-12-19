@@ -9,4 +9,6 @@ router
     .route('/')
     .get(validate(recommendValidation.getRecommend), recommendController.getRecommend);
 
+router.route('/detail').get(validate(recommendValidation.getDetail), recommendController.getDetail);
+
 module.exports = router;

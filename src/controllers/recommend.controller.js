@@ -7,7 +7,13 @@ const getRecommend = catchAsync(async (req, res) => {
   res.status(httpStatus.OK).send(JSON.stringify(result));
 });
 
+const getDetail = catchAsync(async (req, res) => {
+  const result = await recommendService.getDetail(req);
+  res.status(httpStatus.OK).send(JSON.stringify(result));
+})
+
 
 module.exports = {
   getRecommend,
+  getDetail,
 };
