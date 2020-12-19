@@ -49,7 +49,7 @@ const getRecommend = async (req) => {
         const response = await Axios.get('http://data.ex.co.kr/openapi/trafficapi/trafficIc?key=4625471897&type=json&tmType=2&unitCode='+dataTolgate[i].code+'&numOfRows=99&pageNo=1')
         logger.info(response.data.count);
 
-        for (let j = 0; j < dataSpot.length; i++) {
+        for (let j = 0; j < dataSpot.length; j++) {
             
         }
     }
