@@ -1,0 +1,7624 @@
+[{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26655"
+  },
+  "name": "인천",
+  "code": "011",
+  "latitude": 127,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.776Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.776Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26656"
+  },
+  "name": "순천만",
+  "code": "013",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.796Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.796Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26657"
+  },
+  "name": "동부산",
+  "code": "025",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.802Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.802Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26658"
+  },
+  "name": "가락(개)",
+  "code": "029",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.808Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.808Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26659"
+  },
+  "name": "남인천",
+  "code": "053",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.811Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.811Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2665a"
+  },
+  "name": "일로",
+  "code": "056",
+  "latitude": 126,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.813Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      126,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.813Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2665b"
+  },
+  "name": "성남",
+  "code": "061",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.816Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.816Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2665c"
+  },
+  "name": "구리남양주",
+  "code": "062",
+  "latitude": 127,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.818Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.818Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2665d"
+  },
+  "name": "토평",
+  "code": "063",
+  "latitude": 127,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.824Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.824Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2665e"
+  },
+  "name": "청계",
+  "code": "064",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.826Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.826Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2665f"
+  },
+  "name": "판교",
+  "code": "065",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.846Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.846Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26660"
+  },
+  "name": "하남",
+  "code": "066",
+  "latitude": 127,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.849Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.849Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26661"
+  },
+  "name": "시흥",
+  "code": "067",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.851Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.851Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26662"
+  },
+  "name": "김포",
+  "code": "068",
+  "latitude": 127,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.857Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.857Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26663"
+  },
+  "name": "대왕판교",
+  "code": "069",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.860Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.860Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26664"
+  },
+  "name": "덕소삼패",
+  "code": "074",
+  "latitude": 127,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.862Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.862Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26665"
+  },
+  "name": "내서",
+  "code": "092",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.864Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.864Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26666"
+  },
+  "name": "서울",
+  "code": "101",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.866Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.866Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26667"
+  },
+  "name": "동수원",
+  "code": "102",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.869Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.869Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26668"
+  },
+  "name": "수원신갈",
+  "code": "103",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.875Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.875Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26669"
+  },
+  "name": "지곡",
+  "code": "104",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.877Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.877Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2666a"
+  },
+  "name": "기흥",
+  "code": "105",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.894Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.894Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2666b"
+  },
+  "name": "오산",
+  "code": "106",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.896Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.896Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2666c"
+  },
+  "name": "안성",
+  "code": "107",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.899Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.899Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2666d"
+  },
+  "name": "천안",
+  "code": "108",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.901Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.901Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2666e"
+  },
+  "name": "계룡",
+  "code": "109",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.907Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.907Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2666f"
+  },
+  "name": "목천",
+  "code": "110",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.909Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.909Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26670"
+  },
+  "name": "청주",
+  "code": "111",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.912Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.912Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26671"
+  },
+  "name": "남청주",
+  "code": "112",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.914Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.914Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26672"
+  },
+  "name": "신탄진",
+  "code": "113",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.916Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.916Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26673"
+  },
+  "name": "남대전",
+  "code": "114",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.918Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.918Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26674"
+  },
+  "name": "대전",
+  "code": "115",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.919Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.919Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26675"
+  },
+  "name": "옥천",
+  "code": "116",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.925Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.925Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26676"
+  },
+  "name": "금강",
+  "code": "117",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.945Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.945Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26677"
+  },
+  "name": "영동",
+  "code": "118",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.947Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.947Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26678"
+  },
+  "name": "판암",
+  "code": "119",
+  "latitude": 127.46799,
+  "longitude": 36.318239,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.949Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127.46799,
+      36.318239
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.949Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26679"
+  },
+  "name": "황간",
+  "code": "120",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.951Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.951Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2667a"
+  },
+  "name": "추풍령",
+  "code": "121",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.958Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.958Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2667b"
+  },
+  "name": "김천",
+  "code": "122",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.960Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.960Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2667c"
+  },
+  "name": "구미",
+  "code": "123",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.963Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.963Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2667d"
+  },
+  "name": "상주",
+  "code": "124",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.965Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.965Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2667e"
+  },
+  "name": "남구미",
+  "code": "125",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.967Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.967Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2667f"
+  },
+  "name": "왜관",
+  "code": "126",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.974Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.974Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26680"
+  },
+  "name": "서대구",
+  "code": "127",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.976Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.976Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26681"
+  },
+  "name": "북대구",
+  "code": "129",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.994Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.994Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26682"
+  },
+  "name": "동김천",
+  "code": "130",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.996Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.996Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26683"
+  },
+  "name": "경산",
+  "code": "131",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:33.998Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:33.998Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26684"
+  },
+  "name": "영천",
+  "code": "132",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26685"
+  },
+  "name": "건천",
+  "code": "133",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.007Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.007Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26686"
+  },
+  "name": "선산",
+  "code": "134",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.010Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.010Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26687"
+  },
+  "name": "경주",
+  "code": "135",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.012Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.012Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26688"
+  },
+  "name": "음성",
+  "code": "136",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.014Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.014Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26689"
+  },
+  "name": "통도사",
+  "code": "137",
+  "latitude": 129.095247,
+  "longitude": 35.502642,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.015Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129.095247,
+      35.502642
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.015Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2668a"
+  },
+  "name": "양산",
+  "code": "138",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.017Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.017Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2668b"
+  },
+  "name": "서울산",
+  "code": "139",
+  "latitude": 129.124516,
+  "longitude": 35.556277,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.022Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129.124516,
+      35.556277
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.022Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2668c"
+  },
+  "name": "부산",
+  "code": "140",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.024Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.024Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2668d"
+  },
+  "name": "군북",
+  "code": "142",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.026Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.026Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2668e"
+  },
+  "name": "장지",
+  "code": "143",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.044Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.044Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2668f"
+  },
+  "name": "함안",
+  "code": "144",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.046Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.046Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26690"
+  },
+  "name": "산인",
+  "code": "145",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.048Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.048Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26691"
+  },
+  "name": "동창원",
+  "code": "146",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.050Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.050Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26692"
+  },
+  "name": "진례",
+  "code": "147",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.055Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.055Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26693"
+  },
+  "name": "서김해",
+  "code": "148",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.057Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.057Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26694"
+  },
+  "name": "동김해",
+  "code": "149",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.059Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.059Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26695"
+  },
+  "name": "북부산",
+  "code": "150",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.061Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.061Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26696"
+  },
+  "name": "북대전",
+  "code": "151",
+  "latitude": 127.38047,
+  "longitude": 36.41535,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.062Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127.38047,
+      36.41535
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.062Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26697"
+  },
+  "name": "유성",
+  "code": "152",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.064Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.064Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26698"
+  },
+  "name": "서대전",
+  "code": "153",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.066Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.066Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26699"
+  },
+  "name": "안영",
+  "code": "154",
+  "latitude": 127.37646,
+  "longitude": 36.28092,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.068Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127.37646,
+      36.28092
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.068Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2669a"
+  },
+  "name": "논산",
+  "code": "155",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.074Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.074Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2669b"
+  },
+  "name": "익산",
+  "code": "156",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.076Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.076Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2669c"
+  },
+  "name": "삼례",
+  "code": "157",
+  "latitude": 127.08131,
+  "longitude": 35.92319,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.094Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127.08131,
+      35.92319
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.094Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2669d"
+  },
+  "name": "전주",
+  "code": "158",
+  "latitude": 127.05986,
+  "longitude": 35.87746,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.097Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127.05986,
+      35.87746
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.097Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2669e"
+  },
+  "name": "서전주",
+  "code": "159",
+  "latitude": 127.03825,
+  "longitude": 35.82562,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.099Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127.03825,
+      35.82562
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.099Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2669f"
+  },
+  "name": "김제",
+  "code": "160",
+  "latitude": 127.00297,
+  "longitude": 35.778839,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.101Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127.00297,
+      35.778839
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.101Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266a0"
+  },
+  "name": "금산사",
+  "code": "161",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.108Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.108Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266a1"
+  },
+  "name": "태인",
+  "code": "162",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.110Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.110Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266a2"
+  },
+  "name": "정읍",
+  "code": "163",
+  "latitude": 126.83365,
+  "longitude": 35.57821,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.113Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      126.83365,
+      35.57821
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.113Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266a3"
+  },
+  "name": "무주",
+  "code": "164",
+  "latitude": 127.65221,
+  "longitude": 35.97605,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.115Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127.65221,
+      35.97605
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.115Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266a4"
+  },
+  "name": "백양사",
+  "code": "165",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.117Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.117Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266a5"
+  },
+  "name": "장성",
+  "code": "166",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.124Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.124Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266a6"
+  },
+  "name": "광주",
+  "code": "167",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.127Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.127Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266a7"
+  },
+  "name": "덕유산",
+  "code": "168",
+  "latitude": 127.64895,
+  "longitude": 35.84253,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.144Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127.64895,
+      35.84253
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.144Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266a8"
+  },
+  "name": "장수",
+  "code": "169",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.146Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.146Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266a9"
+  },
+  "name": "서상",
+  "code": "170",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.148Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.148Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266aa"
+  },
+  "name": "마성",
+  "code": "171",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.150Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.150Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266ab"
+  },
+  "name": "용인",
+  "code": "172",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.155Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.155Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266ac"
+  },
+  "name": "양지",
+  "code": "173",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.158Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.158Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266ad"
+  },
+  "name": "춘천",
+  "code": "174",
+  "latitude": 128,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.160Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.160Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266ae"
+  },
+  "name": "덕평",
+  "code": "175",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.162Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.162Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266af"
+  },
+  "name": "이천",
+  "code": "176",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.163Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.163Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266b0"
+  },
+  "name": "여주",
+  "code": "177",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.165Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.165Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266b1"
+  },
+  "name": "문막",
+  "code": "178",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.167Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.167Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266b2"
+  },
+  "name": "홍천",
+  "code": "179",
+  "latitude": 128,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.172Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.172Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266b3"
+  },
+  "name": "원주",
+  "code": "180",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.174Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.174Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266b4"
+  },
+  "name": "새말",
+  "code": "181",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.175Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.175Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266b5"
+  },
+  "name": "둔내",
+  "code": "182",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.194Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.194Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266b6"
+  },
+  "name": "면온",
+  "code": "183",
+  "latitude": 128,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.196Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.196Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266b7"
+  },
+  "name": "대관령",
+  "code": "184",
+  "latitude": 129,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.197Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.197Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266b8"
+  },
+  "name": "평창",
+  "code": "185",
+  "latitude": 128,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.199Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.199Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266b9"
+  },
+  "name": "속사",
+  "code": "186",
+  "latitude": 128,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.201Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.201Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266ba"
+  },
+  "name": "진부",
+  "code": "187",
+  "latitude": 129,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.208Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.208Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266bb"
+  },
+  "name": "서충주",
+  "code": "188",
+  "latitude": 127.67332,
+  "longitude": 37.006679,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.210Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127.67332,
+      37.006679
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.210Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266bc"
+  },
+  "name": "강릉",
+  "code": "189",
+  "latitude": 129,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.212Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.212Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266bd"
+  },
+  "name": "동서울",
+  "code": "190",
+  "latitude": 127,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.214Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.214Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266be"
+  },
+  "name": "경기광주",
+  "code": "191",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.215Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.215Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266bf"
+  },
+  "name": "곤지암",
+  "code": "192",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.217Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.217Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266c0"
+  },
+  "name": "일죽",
+  "code": "193",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.222Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.222Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266c1"
+  },
+  "name": "서이천",
+  "code": "194",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.225Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.225Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266c2"
+  },
+  "name": "대소",
+  "code": "195",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.244Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.244Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266c3"
+  },
+  "name": "진천",
+  "code": "196",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.245Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.245Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266c4"
+  },
+  "name": "증평",
+  "code": "197",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.247Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.247Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266c5"
+  },
+  "name": "서청주",
+  "code": "198",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.248Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.248Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266c6"
+  },
+  "name": "오창",
+  "code": "199",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.250Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.250Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266c7"
+  },
+  "name": "금산",
+  "code": "200",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.254Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.254Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266c8"
+  },
+  "name": "칠곡",
+  "code": "201",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.257Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.257Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266c9"
+  },
+  "name": "다부",
+  "code": "202",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.259Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.259Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266ca"
+  },
+  "name": "가산",
+  "code": "203",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.261Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.261Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266cb"
+  },
+  "name": "추부",
+  "code": "204",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.263Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.263Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266cc"
+  },
+  "name": "군위",
+  "code": "205",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.264Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.264Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266cd"
+  },
+  "name": "의성",
+  "code": "206",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.266Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.266Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266ce"
+  },
+  "name": "남안동",
+  "code": "207",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.267Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.267Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266cf"
+  },
+  "name": "서안동",
+  "code": "208",
+  "latitude": 129,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.272Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.272Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266d0"
+  },
+  "name": "예천",
+  "code": "209",
+  "latitude": 129,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.273Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.273Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266d1"
+  },
+  "name": "영주",
+  "code": "210",
+  "latitude": 129,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.275Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.275Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266d2"
+  },
+  "name": "풍기",
+  "code": "211",
+  "latitude": 129,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.294Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.294Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266d3"
+  },
+  "name": "북수원",
+  "code": "212",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.296Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.296Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266d4"
+  },
+  "name": "부곡",
+  "code": "213",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.297Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.297Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266d5"
+  },
+  "name": "동군포",
+  "code": "214",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.299Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.299Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266d6"
+  },
+  "name": "군포",
+  "code": "215",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.307Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.307Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266d7"
+  },
+  "name": "횡성",
+  "code": "216",
+  "latitude": 128,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.309Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.309Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266d8"
+  },
+  "name": "북원주",
+  "code": "217",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.311Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.311Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266d9"
+  },
+  "name": "남원주",
+  "code": "218",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.313Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.313Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266da"
+  },
+  "name": "신림",
+  "code": "219",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.315Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.315Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266db"
+  },
+  "name": "생초",
+  "code": "221",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.316Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.316Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266dc"
+  },
+  "name": "산청",
+  "code": "222",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.318Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.318Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266dd"
+  },
+  "name": "단성",
+  "code": "223",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.326Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.326Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266de"
+  },
+  "name": "함양",
+  "code": "224",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.346Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.346Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266df"
+  },
+  "name": "서진주",
+  "code": "225",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.350Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.350Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266e0"
+  },
+  "name": "군산",
+  "code": "227",
+  "latitude": 126.79078,
+  "longitude": 36.00251,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.359Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      126.79078,
+      36.00251
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.359Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266e1"
+  },
+  "name": "동군산",
+  "code": "228",
+  "latitude": 126.8294,
+  "longitude": 35.94516,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.361Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      126.8294,
+      35.94516
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.361Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266e2"
+  },
+  "name": "북천안",
+  "code": "229",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.363Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.363Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266e3"
+  },
+  "name": "팔공산",
+  "code": "230",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.365Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.365Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266e4"
+  },
+  "name": "화원옥포",
+  "code": "231",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.366Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.366Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266e5"
+  },
+  "name": "달성",
+  "code": "232",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.373Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.373Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266e6"
+  },
+  "name": "현풍",
+  "code": "233",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.375Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.375Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266e7"
+  },
+  "name": "서천",
+  "code": "234",
+  "latitude": 126.68905,
+  "longitude": 36.095569,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.377Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      126.68905,
+      36.095569
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.377Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266e8"
+  },
+  "name": "창녕",
+  "code": "235",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.394Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.394Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266e9"
+  },
+  "name": "영산",
+  "code": "236",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.397Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.397Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266ea"
+  },
+  "name": "남지",
+  "code": "237",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.398Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.398Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266eb"
+  },
+  "name": "칠서",
+  "code": "238",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.400Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.400Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266ec"
+  },
+  "name": "칠원",
+  "code": "239",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.402Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.402Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266ed"
+  },
+  "name": "제천",
+  "code": "240",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.408Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.408Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266ee"
+  },
+  "name": "동고령",
+  "code": "241",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.411Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.411Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266ef"
+  },
+  "name": "고령",
+  "code": "242",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.413Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.413Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266f0"
+  },
+  "name": "해인사",
+  "code": "243",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.414Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.414Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266f1"
+  },
+  "name": "서부산",
+  "code": "244",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.416Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.416Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266f2"
+  },
+  "name": "장유",
+  "code": "245",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.418Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.418Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266f3"
+  },
+  "name": "남원",
+  "code": "247",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.424Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.424Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266f4"
+  },
+  "name": "순창",
+  "code": "248",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.426Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.426Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266f5"
+  },
+  "name": "담양",
+  "code": "249",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.444Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.444Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266f6"
+  },
+  "name": "남양산",
+  "code": "250",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.446Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.446Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266f7"
+  },
+  "name": "물금",
+  "code": "251",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.447Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.447Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266f8"
+  },
+  "name": "대동",
+  "code": "252",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.450Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.450Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266f9"
+  },
+  "name": "서서울",
+  "code": "253",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.451Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.451Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266fa"
+  },
+  "name": "군자",
+  "code": "254",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.459Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.459Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266fb"
+  },
+  "name": "서안산",
+  "code": "255",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.460Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.460Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266fc"
+  },
+  "name": "안산",
+  "code": "256",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.462Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.462Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266fd"
+  },
+  "name": "홍성",
+  "code": "257",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.464Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.464Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266fe"
+  },
+  "name": "광천",
+  "code": "258",
+  "latitude": 126.5933,
+  "longitude": 36.49849,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.466Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      126.5933,
+      36.49849
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.466Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd266ff"
+  },
+  "name": "대천",
+  "code": "259",
+  "latitude": 126.570489,
+  "longitude": 36.33197,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.467Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      126.570489,
+      36.33197
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.467Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26700"
+  },
+  "name": "춘장대",
+  "code": "260",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.474Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.474Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26701"
+  },
+  "name": "동광주",
+  "code": "261",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.476Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.476Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26702"
+  },
+  "name": "창평",
+  "code": "262",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.494Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.494Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26703"
+  },
+  "name": "옥과",
+  "code": "263",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.496Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.496Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26704"
+  },
+  "name": "동남원",
+  "code": "264",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.498Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.498Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26705"
+  },
+  "name": "곡성",
+  "code": "265",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.500Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.500Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26706"
+  },
+  "name": "석곡",
+  "code": "266",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.506Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.506Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26707"
+  },
+  "name": "주암송광사",
+  "code": "267",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.508Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.508Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26708"
+  },
+  "name": "승주",
+  "code": "268",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.510Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.510Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26709"
+  },
+  "name": "지리산",
+  "code": "269",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.512Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.512Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2670a"
+  },
+  "name": "서순천",
+  "code": "270",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.514Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.514Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2670b"
+  },
+  "name": "순천",
+  "code": "271",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.517Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.517Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2670c"
+  },
+  "name": "광양",
+  "code": "272",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.523Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.523Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2670d"
+  },
+  "name": "동광양",
+  "code": "273",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.525Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.525Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2670e"
+  },
+  "name": "가조",
+  "code": "274",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.527Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.527Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2670f"
+  },
+  "name": "옥곡",
+  "code": "275",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.544Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.544Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26710"
+  },
+  "name": "진월",
+  "code": "276",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.546Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.546Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26711"
+  },
+  "name": "하동",
+  "code": "277",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.548Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.548Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26712"
+  },
+  "name": "진교",
+  "code": "278",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.549Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.549Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26713"
+  },
+  "name": "곤양",
+  "code": "279",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.551Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.551Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26714"
+  },
+  "name": "거창",
+  "code": "280",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.557Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.557Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26715"
+  },
+  "name": "매송",
+  "code": "281",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.559Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.559Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26716"
+  },
+  "name": "비봉",
+  "code": "282",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.560Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.560Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26717"
+  },
+  "name": "발안",
+  "code": "283",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.562Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.562Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26718"
+  },
+  "name": "남양양",
+  "code": "284",
+  "latitude": 129,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.563Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.563Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26719"
+  },
+  "name": "서평택",
+  "code": "285",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.565Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.565Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2671a"
+  },
+  "name": "송악",
+  "code": "287",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.567Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.567Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2671b"
+  },
+  "name": "당진",
+  "code": "288",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.568Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.568Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2671c"
+  },
+  "name": "마산",
+  "code": "289",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.576Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.576Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2671d"
+  },
+  "name": "축동",
+  "code": "290",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.594Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.594Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2671e"
+  },
+  "name": "사천",
+  "code": "291",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.596Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.596Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2671f"
+  },
+  "name": "진주",
+  "code": "292",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.598Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.598Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26720"
+  },
+  "name": "문산",
+  "code": "293",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.600Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.600Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26721"
+  },
+  "name": "북창원",
+  "code": "294",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.605Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.605Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26722"
+  },
+  "name": "진성",
+  "code": "295",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.607Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.607Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26723"
+  },
+  "name": "지수",
+  "code": "296",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.609Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.609Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26724"
+  },
+  "name": "동충주",
+  "code": "297",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.612Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.612Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26725"
+  },
+  "name": "서산",
+  "code": "298",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.613Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.613Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26726"
+  },
+  "name": "해미",
+  "code": "299",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.615Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.615Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26727"
+  },
+  "name": "남여주",
+  "code": "500",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.617Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.617Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26728"
+  },
+  "name": "서김제",
+  "code": "501",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.623Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.623Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26729"
+  },
+  "name": "부안",
+  "code": "502",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.626Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.626Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2672a"
+  },
+  "name": "줄포",
+  "code": "503",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.645Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.645Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2672b"
+  },
+  "name": "선운산",
+  "code": "504",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.648Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.648Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2672c"
+  },
+  "name": "고창",
+  "code": "505",
+  "latitude": 126.67095,
+  "longitude": 35.43738,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.650Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      126.67095,
+      35.43738
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.650Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2672d"
+  },
+  "name": "영광",
+  "code": "506",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.659Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.659Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2672e"
+  },
+  "name": "함평",
+  "code": "507",
+  "latitude": 126,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.662Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      126,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.662Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2672f"
+  },
+  "name": "무안",
+  "code": "508",
+  "latitude": 126,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.665Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      126,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.665Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26730"
+  },
+  "name": "목포",
+  "code": "509",
+  "latitude": 126,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.666Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      126,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.666Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26731"
+  },
+  "name": "양양",
+  "code": "510",
+  "latitude": 129,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.672Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.672Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26732"
+  },
+  "name": "무창포",
+  "code": "511",
+  "latitude": 126.56535,
+  "longitude": 36.241,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.675Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      126.56535,
+      36.241
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.675Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26733"
+  },
+  "name": "연화산",
+  "code": "512",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.694Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.694Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26734"
+  },
+  "name": "고성",
+  "code": "513",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.696Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.696Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26735"
+  },
+  "name": "동고성",
+  "code": "514",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.698Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.698Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26736"
+  },
+  "name": "북통영",
+  "code": "515",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.699Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.699Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26737"
+  },
+  "name": "통영",
+  "code": "516",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.701Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.701Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26738"
+  },
+  "name": "양평",
+  "code": "517",
+  "latitude": 127,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.710Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.710Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26739"
+  },
+  "name": "칠곡물류",
+  "code": "518",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.711Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.711Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2673a"
+  },
+  "name": "남대구",
+  "code": "519",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.714Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.714Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2673b"
+  },
+  "name": "평택",
+  "code": "520",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.716Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.716Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2673c"
+  },
+  "name": "단양",
+  "code": "521",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.721Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.721Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2673d"
+  },
+  "name": "북단양",
+  "code": "522",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.723Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.723Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2673e"
+  },
+  "name": "남제천",
+  "code": "523",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.725Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.725Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2673f"
+  },
+  "name": "청통와촌",
+  "code": "524",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.746Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.746Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26740"
+  },
+  "name": "북영천",
+  "code": "525",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.748Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.748Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26741"
+  },
+  "name": "서포항",
+  "code": "526",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.749Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.749Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26742"
+  },
+  "name": "포항",
+  "code": "527",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.756Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.756Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26743"
+  },
+  "name": "기흥동탄",
+  "code": "528",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.758Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.758Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26744"
+  },
+  "name": "노포",
+  "code": "529",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.759Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.759Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26745"
+  },
+  "name": "내장산",
+  "code": "530",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.761Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.761Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26746"
+  },
+  "name": "문의",
+  "code": "531",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.762Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.762Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26747"
+  },
+  "name": "회인",
+  "code": "532",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.764Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.764Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26748"
+  },
+  "name": "보은",
+  "code": "533",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.765Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.765Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26749"
+  },
+  "name": "속리산",
+  "code": "534",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.767Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.767Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2674a"
+  },
+  "name": "화서",
+  "code": "535",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.768Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.768Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2674b"
+  },
+  "name": "남상주",
+  "code": "536",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.773Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.773Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2674c"
+  },
+  "name": "남김천",
+  "code": "537",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.775Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.775Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2674d"
+  },
+  "name": "성주",
+  "code": "538",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.794Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.794Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2674e"
+  },
+  "name": "남성주",
+  "code": "539",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.796Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.796Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2674f"
+  },
+  "name": "청북",
+  "code": "540",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.797Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.797Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26750"
+  },
+  "name": "송탄",
+  "code": "541",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.798Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.798Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26751"
+  },
+  "name": "서안성",
+  "code": "542",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.800Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.800Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26752"
+  },
+  "name": "남안성",
+  "code": "543",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.801Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.801Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26753"
+  },
+  "name": "완주",
+  "code": "544",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.806Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.806Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26754"
+  },
+  "name": "소양",
+  "code": "545",
+  "latitude": 127.2386,
+  "longitude": 35.85923,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.810Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127.2386,
+      35.85923
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.810Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26755"
+  },
+  "name": "진안",
+  "code": "546",
+  "latitude": 127.43845,
+  "longitude": 35.769439,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.811Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127.43845,
+      35.769439
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.811Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26756"
+  },
+  "name": "무안공항",
+  "code": "547",
+  "latitude": 126,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.813Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      126,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.813Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26757"
+  },
+  "name": "동함평",
+  "code": "549",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.815Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.815Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26758"
+  },
+  "name": "문평",
+  "code": "550",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.817Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.817Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26759"
+  },
+  "name": "나주",
+  "code": "551",
+  "latitude": 126.69306,
+  "longitude": 35.10218,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.818Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      126.69306,
+      35.10218
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.818Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2675a"
+  },
+  "name": "서광산",
+  "code": "552",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.823Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.823Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2675b"
+  },
+  "name": "동광산",
+  "code": "553",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.825Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.825Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2675c"
+  },
+  "name": "동홍천",
+  "code": "554",
+  "latitude": 128,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.828Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.828Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2675d"
+  },
+  "name": "북진천",
+  "code": "555",
+  "latitude": 127.44994,
+  "longitude": 36.94045,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.844Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127.44994,
+      36.94045
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.844Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2675e"
+  },
+  "name": "동순천",
+  "code": "556",
+  "latitude": 128,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.846Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.846Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2675f"
+  },
+  "name": "황전",
+  "code": "557",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.847Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.847Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26760"
+  },
+  "name": "구례화엄사",
+  "code": "558",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.849Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.849Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26761"
+  },
+  "name": "서남원",
+  "code": "559",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.850Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.850Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26762"
+  },
+  "name": "감곡",
+  "code": "560",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.855Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.855Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26763"
+  },
+  "name": "북충주",
+  "code": "561",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.856Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.856Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26764"
+  },
+  "name": "충주",
+  "code": "562",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.858Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.858Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26765"
+  },
+  "name": "괴산",
+  "code": "563",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.859Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.859Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26766"
+  },
+  "name": "연풍",
+  "code": "564",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.861Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.861Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26767"
+  },
+  "name": "문경새재",
+  "code": "565",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.863Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.863Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26768"
+  },
+  "name": "점촌함창",
+  "code": "566",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.864Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.864Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26769"
+  },
+  "name": "남고창",
+  "code": "567",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.866Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.866Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2676a"
+  },
+  "name": "장성물류",
+  "code": "568",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.867Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.867Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2676b"
+  },
+  "name": "북광주",
+  "code": "569",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.872Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.872Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2676c"
+  },
+  "name": "북상주",
+  "code": "570",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.874Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.874Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2676d"
+  },
+  "name": "면천",
+  "code": "571",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.877Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.877Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2676e"
+  },
+  "name": "고덕",
+  "code": "572",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.894Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.894Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2676f"
+  },
+  "name": "예산수덕사",
+  "code": "573",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.895Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.895Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26770"
+  },
+  "name": "신양",
+  "code": "574",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.897Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.897Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26771"
+  },
+  "name": "유구",
+  "code": "575",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.898Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.898Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26772"
+  },
+  "name": "마곡사",
+  "code": "576",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.905Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.905Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26773"
+  },
+  "name": "공주",
+  "code": "577",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.907Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.907Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26774"
+  },
+  "name": "서세종",
+  "code": "578",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.909Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.909Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26775"
+  },
+  "name": "남세종",
+  "code": "579",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.912Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.912Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26776"
+  },
+  "name": "북강릉",
+  "code": "580",
+  "latitude": 129,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.914Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.914Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26777"
+  },
+  "name": "옥계",
+  "code": "581",
+  "latitude": 129,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.916Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.916Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26778"
+  },
+  "name": "망상",
+  "code": "582",
+  "latitude": 129,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.921Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.921Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26779"
+  },
+  "name": "동해",
+  "code": "583",
+  "latitude": 129,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.927Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.927Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2677a"
+  },
+  "name": "남강릉",
+  "code": "584",
+  "latitude": 129,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.944Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.944Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2677b"
+  },
+  "name": "하조대",
+  "code": "585",
+  "latitude": 129,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.946Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.946Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2677c"
+  },
+  "name": "북남원",
+  "code": "586",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.948Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.948Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2677d"
+  },
+  "name": "오수",
+  "code": "587",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.950Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.950Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2677e"
+  },
+  "name": "임실",
+  "code": "588",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.958Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.958Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2677f"
+  },
+  "name": "상관",
+  "code": "589",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.960Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.960Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26780"
+  },
+  "name": "동전주",
+  "code": "590",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.963Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.963Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26781"
+  },
+  "name": "동서천",
+  "code": "591",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.966Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.966Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26782"
+  },
+  "name": "서부여",
+  "code": "592",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.967Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.967Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26783"
+  },
+  "name": "부여",
+  "code": "593",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.975Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.975Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26784"
+  },
+  "name": "청양",
+  "code": "594",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.993Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.993Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26785"
+  },
+  "name": "서공주",
+  "code": "595",
+  "latitude": 127,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.995Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.995Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26786"
+  },
+  "name": "서여주",
+  "code": "597",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.997Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.997Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26787"
+  },
+  "name": "북여주",
+  "code": "598",
+  "latitude": 128,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:34.999Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:34.999Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26788"
+  },
+  "name": "울산",
+  "code": "641",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26789"
+  },
+  "name": "문수",
+  "code": "642",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.005Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.005Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2678a"
+  },
+  "name": "청량",
+  "code": "643",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.007Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.007Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2678b"
+  },
+  "name": "온양",
+  "code": "644",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.009Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.009Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2678c"
+  },
+  "name": "장안",
+  "code": "645",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.011Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.011Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2678d"
+  },
+  "name": "기장일광",
+  "code": "646",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.012Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.012Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2678e"
+  },
+  "name": "해운대송정",
+  "code": "647",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.014Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.014Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2678f"
+  },
+  "name": "남양주",
+  "code": "651",
+  "latitude": 127,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.015Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.015Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26790"
+  },
+  "name": "화도",
+  "code": "652",
+  "latitude": 127,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.017Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.017Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26791"
+  },
+  "name": "서종",
+  "code": "653",
+  "latitude": 127,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.018Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.018Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26792"
+  },
+  "name": "설악",
+  "code": "654",
+  "latitude": 127,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.023Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.023Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26793"
+  },
+  "name": "강촌",
+  "code": "655",
+  "latitude": 128,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.025Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.025Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26794"
+  },
+  "name": "남춘천",
+  "code": "656",
+  "latitude": 128,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.044Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.044Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26795"
+  },
+  "name": "동산",
+  "code": "657",
+  "latitude": 128,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.046Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.046Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26796"
+  },
+  "name": "조양",
+  "code": "658",
+  "latitude": 128,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.048Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.048Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26797"
+  },
+  "name": "봉담",
+  "code": "671",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.049Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.049Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26798"
+  },
+  "name": "정남",
+  "code": "672",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.050Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.050Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd26799"
+  },
+  "name": "북오산",
+  "code": "673",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.051Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.051Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2679a"
+  },
+  "name": "서오산",
+  "code": "675",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.057Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.057Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2679b"
+  },
+  "name": "향남",
+  "code": "676",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.059Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.059Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2679c"
+  },
+  "name": "북평택",
+  "code": "677",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.060Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.060Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2679d"
+  },
+  "name": "북양양",
+  "code": "701",
+  "latitude": 129,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.062Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.062Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2679e"
+  },
+  "name": "속초",
+  "code": "702",
+  "latitude": 129,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.063Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.063Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd2679f"
+  },
+  "name": "삼척",
+  "code": "703",
+  "latitude": 129,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.066Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.066Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267a0"
+  },
+  "name": "근덕",
+  "code": "704",
+  "latitude": 129,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.067Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.067Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267a1"
+  },
+  "name": "남이천",
+  "code": "705",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.069Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.069Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267a2"
+  },
+  "name": "남경주",
+  "code": "706",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.075Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.075Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267a3"
+  },
+  "name": "남포항",
+  "code": "707",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.077Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.077Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267a4"
+  },
+  "name": "동경주",
+  "code": "708",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.094Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.094Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267a5"
+  },
+  "name": "동상주",
+  "code": "712",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.096Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.096Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267a6"
+  },
+  "name": "서의성",
+  "code": "713",
+  "latitude": 128,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.097Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.097Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267a7"
+  },
+  "name": "북의성",
+  "code": "714",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.099Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.099Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267a8"
+  },
+  "name": "동안동",
+  "code": "715",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.102Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.102Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267a9"
+  },
+  "name": "청송",
+  "code": "716",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.106Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.106Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267aa"
+  },
+  "name": "활천",
+  "code": "722",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.108Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.108Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267ab"
+  },
+  "name": "남양평",
+  "code": "735",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.110Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.110Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267ac"
+  },
+  "name": "삼성",
+  "code": "736",
+  "latitude": 127.441411,
+  "longitude": 37.185579,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.112Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127.441411,
+      37.185579
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.112Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267ad"
+  },
+  "name": "평택고덕",
+  "code": "741",
+  "latitude": 127,
+  "longitude": 37,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.114Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      37
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.114Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267ae"
+  },
+  "name": "범서",
+  "code": "747",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.115Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.115Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267af"
+  },
+  "name": "동청송영양",
+  "code": "748",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.116Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.116Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267b0"
+  },
+  "name": "영덕",
+  "code": "749",
+  "latitude": 129,
+  "longitude": 36,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.118Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      36
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.118Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267b1"
+  },
+  "name": "기장철마",
+  "code": "752",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.122Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.122Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267b2"
+  },
+  "name": "금정",
+  "code": "753",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.124Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.124Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267b3"
+  },
+  "name": "광재",
+  "code": "755",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.125Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.125Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267b4"
+  },
+  "name": "한림",
+  "code": "756",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.144Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.144Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267b5"
+  },
+  "name": "진영",
+  "code": "757",
+  "latitude": 129,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.145Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.145Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267b6"
+  },
+  "name": "내촌",
+  "code": "765",
+  "latitude": 128,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.147Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.147Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267b7"
+  },
+  "name": "인제",
+  "code": "766",
+  "latitude": 128,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.148Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      128,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.148Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267b8"
+  },
+  "name": "서양양",
+  "code": "768",
+  "latitude": 129,
+  "longitude": 38,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.149Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      129,
+      38
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.149Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267b9"
+  },
+  "name": "서영암",
+  "code": "981",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.151Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.151Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267ba"
+  },
+  "name": "강진무위사",
+  "code": "982",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.152Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.152Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267bb"
+  },
+  "name": "장흥",
+  "code": "983",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.156Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.156Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267bc"
+  },
+  "name": "보성",
+  "code": "984",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.158Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.158Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267bd"
+  },
+  "name": "벌교",
+  "code": "985",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.160Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.160Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267be"
+  },
+  "name": "고흥",
+  "code": "986",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.162Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.162Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdd3f45c2dee4210dd267bf"
+  },
+  "name": "남순천",
+  "code": "987",
+  "latitude": 127,
+  "longitude": 35,
+  "createdAt": {
+    "$date": "2020-12-18T23:48:35.163Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      127,
+      35
+    ]
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T23:48:35.163Z"
+  }
+}]
